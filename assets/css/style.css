@@ -872,7 +872,7 @@ main {
 
 
 /*-----------------------------------*\
-  #PORTFOLIO
+  #APPS
 \*-----------------------------------*/
 
 .filter-list { display: none; }
@@ -1005,7 +1005,7 @@ main {
 .project-img img {
   width: 100%;
   height: 100%;
-  object-fit: contain;
+  object-fit: cover;
   transition: var(--transition-1);
 }
 
@@ -1027,7 +1027,6 @@ main {
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
 }
-
 
 
 
